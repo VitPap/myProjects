@@ -1,0 +1,3 @@
+﻿  easy.cpp
+C:\Vitaly\projects\cpp\Lab\Lab\easy.cpp(61,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Lab.vcxproj -> C:\Vitaly\projects\cpp\Lab\x64\Debug\Lab.exe

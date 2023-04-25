@@ -1,0 +1,1 @@
+iverilog -g2012 -o testbench.out testbench.sv && vvp testbench.out

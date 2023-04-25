@@ -1,0 +1,93 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T2A]{fontenc}
+\usepackage[russian]{babel}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{arcs}
+\usepackage{fancyhdr}
+\usepackage{float}
+\usepackage[left=3cm,right=3cm,top=3cm,bottom=3cm]{geometry}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{multicol}
+\usepackage{stackrel}
+\usepackage{xcolor}
+
+\begin{document}
+\pagestyle{empty}
+\normalsize
+
+\begin{flushleft}
+
+\section{Матанализ от Виноградова}
+\subsection{}
+
+{{\textbf{\small{Дифференцирование степенных рядов.}}}
+{\small{Пусть $R \in (0,+ \infty ],$
+
+$$f(z) = \sum_{k=0}^{\infty} c_{k}(z-z_{0})^{k}, \: |z-z_{0}| < R$$
+
+Тогда $f$ бесконечно дифферецируема в круге $B(z_{0}, R)$ и ряд можно дифференцировать почленно \\ любое число раз:
+
+$$f^{(m)}(z)=\sum_{k=m}^{\infty} k(k-1) \ldots(k - m + 1)c_{k}(z-z_{0})^{k-m}, $$
+
+при всех $m \in \mathbb{N}.$} \\
+
+{\textbf{Единственность разложения функции в степенной ряд.}} Пусть $R \in (0,+ \infty],$
+
+$$f(z)= \sum_{k=0}^{\infty}c_{k}(z-z_{0})^{k}, \: |z-z_{0}| < R.$$
+
+Тогда коэффиценты $c_k$ определяются единственным образом по формуле
+
+$$c_{k}= \frac{f^{(k)}(z_{0})}{k!}$$
+
+\subsection{}
+
+Сомнительный вариант: 
+$$sin {\pi}p={\pi}p \prod^{\infty}_{k=1} \left( 1- \frac{p^2}{k^2} \right) , \: p \in \mathbb{R}$$
+
+Вариант Виноградова: 
+$$sin z = z \prod^{\infty}_{k=1} \left(1- \frac{z^2}{k^2 {\pi}^2} \right), \: z \in \mathbb{C}$$
+}}
+\newpage
+
+\section{Большое задание от доктора Тренча}
+\subsection{}
+{\textbf{(a)}} {\small{Since $f$ is continuous on $[0,L]$ and $f(L) = 0$, Theorem 11.3.3 implies that
+
+$f(x) = \sum\limits^{\infty}_{n=1}c_{n}cos{\frac{(2n-1){\pi}x}{2L}},-L \leq x \leq L,$ with
+
+\begin{align*}
+            c_{n} \: = & \: \frac{2}{L} \int^{L}_{0}f(x)cos{\frac{(2n - 1){\pi}x}{2L}}dx \\
+                        = & \: \frac{4}{(2n - 1)\pi} \left[f(x) sin \frac{(2n - 1)\pi x}{2L} {\bigg|}^L_0 - \int^L_0 \: f^{'} (x)sin \frac{(2n - 1)\pi x}{2L}dx \right] \\
+                        = & \: -\frac{4}{(2n - 1)\pi}  \int^L_0 \: f^{'} (x)sin \frac{(2n - 1)\pi x}{2L}dx
+                        (since \: f(L)=0) \\
+                        = & \: \frac{8L^2}{(2n-1)^2 {\pi}^2} \left[f^{'}(x)cos \frac{(2n - 1)\pi x}{2L} {\bigg|}^{L}_{0} - \int^{L}_{0} \: f^{'''}(x)sin{\frac{(2n - 1)\pi x}{2L}}dx\right] \\
+                        = & \: \frac{8L^2}{(2n-1)^2 {\pi}^2} \int^{L}_{0} \: f^{'''}(x)sin{\frac{(2n - 1)\pi x}{2L}}dx \: (since \: f^{'}(0)=0).
+\end{align*}
+}}
+{\textbf{(a)}} Continuing the integration by parts yields 
+
+\begin{align*}
+    c_{n} \: = & \: - \frac{16L^{2}}{(2n-1)^{3}{\pi}^{3}} \left[ f^{''}(x)sin{\frac{(2n -         1){\pi}x}{2L}} {\bigg|}^{L}_{0} - {\int}^{L}_{0} f^{'''}(x)sin \frac{(2n-1){\pi}x}{2L}dx\right] \\
+                = & \: - \frac{16L^{2}}{(2n-1)^{3}{\pi}^{3}} {\int}^{L}_{0} f^{'''}(x)sin \frac{(2n-1){\pi}x}{2L}dx.
+\end{align*}
+\section{Маленькие задания от доктора Тренча}
+{\large{
+\subsection{}
+$sinh \:at \leftrightarrow \frac{a}{s^{2} - a^{2}} and \: cosh \: at \leftrightarrow \frac{1}{s^{2} - a^{2}}, so \: H(s) = \frac{as}{(s^{2} - a^{2})^{2}}.$
+\subsection{}
+$Y(s) = \frac{1}{s^{2} + 1} - \frac{2sY(s)}{s^{2}+1}; Y(s) \left( 1 + \frac{2s}{s^{2} + 1}\right) = \frac{1}{s^{2} + 1}; Y(s)\frac{(s + 1) ^ {2}}{s^{2} + 1}; Y(s) = \frac{1}{(s + 1) ^ {2}}, so$
+
+$y = te^{-t}.$
+
+\subsection{}
+$t^7 \leftrightarrow \frac{7!}{s^{8}} and \: e^{-t} sin \:2t \leftrightarrow \frac{2}{(s + 1)^2 + 4}, so \: H(s) = \frac{2 \cdot 7!}{s^8[(s + 1)^{2} + 4]}$
+}}
+\end{flushleft}
+\end{document}
+
+
+

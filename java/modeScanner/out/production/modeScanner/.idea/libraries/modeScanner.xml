@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="modeScanner">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WordStatTest.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FastReverseTest.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

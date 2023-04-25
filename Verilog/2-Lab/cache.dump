@@ -1,0 +1,385 @@
+$$$$$$ CACHE DUMP $$$$$$
+== SET 0x0	==
+WAY 0
+valid: 1
+dirty: 0
+tag:   0x7
+data:  0x5b8221e70166256e1813bff23b62298b
+WAY 1
+valid: 1
+dirty: 0
+tag:   0xb
+data:  0x742a311e9d1bf4de4e4ca352a517fc13
+
+== SET 0x1	==
+WAY 0
+valid: 1
+dirty: 0
+tag:   0x7
+data:  0xa1eeb3039c21721d2704d961b299f1e8
+WAY 1
+valid: 1
+dirty: 0
+tag:   0xa
+data:  0x98e20fbfeef7d51c649585ec4d1f08a9
+
+== SET 0x2	==
+WAY 0
+valid: 1
+dirty: 0
+tag:   0x6
+data:  0xc8cdb75b427ae9feef5cec66b6bf35cd
+WAY 1
+valid: 1
+dirty: 0
+tag:   0xa
+data:  0x6e3173eeab2ba40a32d1fda26bf07472
+
+== SET 0x3	==
+WAY 0
+valid: 1
+dirty: 0
+tag:   0x6
+data:  0xae017bdbd8423fc1ec97bdd124f4bac8
+WAY 1
+valid: 1
+dirty: 0
+tag:   0x9
+data:  0xcfc2d89c439513f432554bc1b857221e
+
+== SET 0x4	==
+WAY 0
+valid: 1
+dirty: 0
+tag:   0x5
+data:  0xd9975dee2c273a1da448d34a73b6d7d2
+WAY 1
+valid: 1
+dirty: 0
+tag:   0x9
+data:  0x0bb7c5dd60d4e0c5f3f9106274648392
+
+== SET 0x5	==
+WAY 0
+valid: 1
+dirty: 0
+tag:   0x5
+data:  0x2b903f6ec938c4d0da48c8ce64a5c7c5
+WAY 1
+valid: 1
+dirty: 0
+tag:   0x8
+data:  0xf59e1eb4cc8889b9a9b3b6a371660030
+
+== SET 0x6	==
+WAY 0
+valid: 1
+dirty: 0
+tag:   0x4
+data:  0xa55a6b575665ef034f4dcb560941e8cf
+WAY 1
+valid: 1
+dirty: 0
+tag:   0x8
+data:  0x63367fa2560e8247a93a344a566b00ac
+
+== SET 0x7	==
+WAY 0
+valid: 1
+dirty: 0
+tag:   0x4
+data:  0x2f13577305fbda83098f500f0aa6ee18
+WAY 1
+valid: 1
+dirty: 0
+tag:   0xb
+data:  0x06880097e84ef992a2127e0b648b25e3
+
+== SET 0x8	==
+WAY 0
+valid: 1
+dirty: 0
+tag:   0xb
+data:  0xd7bcb89df075dea8d33757e445a247ef
+WAY 1
+valid: 1
+dirty: 0
+tag:   0x7
+data:  0x8e24f8f624d160c96d0ec213abfcc4f7
+
+== SET 0x9	==
+WAY 0
+valid: 1
+dirty: 0
+tag:   0x6
+data:  0x6e2a7b72db4d81e3f329dd6c2ee8620d
+WAY 1
+valid: 1
+dirty: 0
+tag:   0xa
+data:  0xde80f1a76ecf5571c050680aceac7cf4
+
+== SET 0xa	==
+WAY 0
+valid: 1
+dirty: 0
+tag:   0xa
+data:  0x7a4ef493fbb5bdfec850d321f03396c0
+WAY 1
+valid: 1
+dirty: 0
+tag:   0x6
+data:  0xa4fa89906215538255eb12750b11a6ab
+
+== SET 0xb	==
+WAY 0
+valid: 1
+dirty: 0
+tag:   0x5
+data:  0xf2ca4389910fb1baf6314ac3624c9848
+WAY 1
+valid: 1
+dirty: 0
+tag:   0x9
+data:  0xeddc651aef8d71e3ce94003d4d8c1d4b
+
+== SET 0xc	==
+WAY 0
+valid: 1
+dirty: 0
+tag:   0x9
+data:  0x1f41a1870d6e88c3f9eb69af3d3edb32
+WAY 1
+valid: 1
+dirty: 0
+tag:   0x5
+data:  0xbe318928a9d232ab7b4b7c270ca17f01
+
+== SET 0xd	==
+WAY 0
+valid: 1
+dirty: 1
+tag:   0x29
+data:  0x07870c6d073c703306dd00e208cca319
+WAY 1
+valid: 1
+dirty: 0
+tag:   0x8
+data:  0x4c14b5a705802721e6559e5d7b22e11f
+
+== SET 0xe	==
+WAY 0
+valid: 1
+dirty: 0
+tag:   0x8
+data:  0xe00b1532c098182f80817045c5bdef7d
+WAY 1
+valid: 1
+dirty: 0
+tag:   0x4
+data:  0xf23f51778fffd67bf6a457e148a32730
+
+== SET 0xf	==
+WAY 0
+valid: 1
+dirty: 0
+tag:   0xb
+data:  0x2529b2503e16e5c510e8a953739ffde3
+WAY 1
+valid: 1
+dirty: 1
+tag:   0x29
+data:  0x0855de810974ff5207bda25e0a7dbd9c
+
+== SET 0x10	==
+WAY 0
+valid: 1
+dirty: 0
+tag:   0x7
+data:  0xd425a94caa2b457a7488419c1fa6a9da
+WAY 1
+valid: 1
+dirty: 0
+tag:   0xa
+data:  0xe723b5f51f32204e5df3ad646d2e48c0
+
+== SET 0x11	==
+WAY 0
+valid: 1
+dirty: 0
+tag:   0x6
+data:  0x57f748f14ee5bbe091334b414254311f
+WAY 1
+valid: 1
+dirty: 0
+tag:   0xa
+data:  0xf63d6e96105740dd8e4a864f1108fb76
+
+== SET 0x12	==
+WAY 0
+valid: 1
+dirty: 0
+tag:   0x6
+data:  0x1307b58b651ee7ddee79346be3f3e380
+WAY 1
+valid: 1
+dirty: 0
+tag:   0x9
+data:  0x0f9282fab363f2a6a0d14158ea1892bc
+
+== SET 0x13	==
+WAY 0
+valid: 1
+dirty: 0
+tag:   0x5
+data:  0x33923b1db1464bd0553e0b760ae06ebc
+WAY 1
+valid: 1
+dirty: 0
+tag:   0x9
+data:  0x5e940d1e3fb5bb6a5d917160260fa32e
+
+== SET 0x14	==
+WAY 0
+valid: 1
+dirty: 0
+tag:   0x5
+data:  0xb52990aa896bd59004cca06ba99a73a8
+WAY 1
+valid: 1
+dirty: 0
+tag:   0x8
+data:  0x1bc19e5d306c92ceff91cefde9dcb3b8
+
+== SET 0x15	==
+WAY 0
+valid: 1
+dirty: 0
+tag:   0x4
+data:  0xbeea6a4408bdd36c81a82f77e1022cb6
+WAY 1
+valid: 1
+dirty: 0
+tag:   0x8
+data:  0x76a8e7a162272fa19637c23e48adce44
+
+== SET 0x16	==
+WAY 0
+valid: 1
+dirty: 0
+tag:   0x4
+data:  0xd303935eac09e8cad0f9de5309943189
+WAY 1
+valid: 1
+dirty: 0
+tag:   0x7
+data:  0x212862d72c47d5fc94abad0a037383ee
+
+== SET 0x17	==
+WAY 0
+valid: 1
+dirty: 0
+tag:   0xa
+data:  0xbf23edba254ce2f2a0a3587110501508
+WAY 1
+valid: 1
+dirty: 0
+tag:   0x7
+data:  0x54ef56d711a774bc50b2d19f11db53f0
+
+== SET 0x18	==
+WAY 0
+valid: 1
+dirty: 0
+tag:   0x6
+data:  0x3b3f261f41ea966b76973637ced6d996
+WAY 1
+valid: 1
+dirty: 0
+tag:   0xa
+data:  0x24f786e6adafb46b7ce06b28079bfdae
+
+== SET 0x19	==
+WAY 0
+valid: 1
+dirty: 0
+tag:   0xa
+data:  0xe219868cd68e9561cf83dfbc1732852f
+WAY 1
+valid: 1
+dirty: 0
+tag:   0x6
+data:  0x12e3b076e42b61f3a37cf53e188f0c68
+
+== SET 0x1a	==
+WAY 0
+valid: 1
+dirty: 0
+tag:   0x5
+data:  0x807e41ed054fab51bdcdc03de4fb8ee7
+WAY 1
+valid: 1
+dirty: 0
+tag:   0x9
+data:  0xf5f24d113d0fb6eccf52210a693c1e1b
+
+== SET 0x1b	==
+WAY 0
+valid: 1
+dirty: 0
+tag:   0x9
+data:  0x23eccfaa310bf087df4e9d2a41e2b4c9
+WAY 1
+valid: 1
+dirty: 0
+tag:   0x5
+data:  0xc7fa4d3973adcf7da70b86d0f6c2cee6
+
+== SET 0x1c	==
+WAY 0
+valid: 1
+dirty: 0
+tag:   0x4
+data:  0x085d0cfa126cede681c4a4d4dcdb7a19
+WAY 1
+valid: 1
+dirty: 0
+tag:   0x8
+data:  0x098dc47a1629e41ea085317cad99756a
+
+== SET 0x1d	==
+WAY 0
+valid: 1
+dirty: 0
+tag:   0x8
+data:  0x735bb5a3e17da238b9572146d808c5a1
+WAY 1
+valid: 1
+dirty: 0
+tag:   0x4
+data:  0x8bad87d55723969274d8de0f416c74a2
+
+== SET 0x1e	==
+WAY 0
+valid: 1
+dirty: 0
+tag:   0x7
+data:  0x783f43d9d0f3163605f3f3376ba8dcd1
+WAY 1
+valid: 1
+dirty: 0
+tag:   0x3
+data:  0xeb53dffeff3a3462daf63ab24e6e7465
+
+== SET 0x1f	==
+WAY 0
+valid: 1
+dirty: 0
+tag:   0x7
+data:  0xeade8e2e7cdd86ad7317c2c5769d92ee
+WAY 1
+valid: 1
+dirty: 0
+tag:   0x3
+data:  0x7775b40526868d6b235c53b39385d4d3
+
