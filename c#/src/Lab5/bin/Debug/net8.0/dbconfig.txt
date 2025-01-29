@@ -1,0 +1,6 @@
+﻿Host=localhost
+Port=6666
+Database=atm
+Username=postgres
+Password=povise
+AdminPassword=poseva

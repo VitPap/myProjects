@@ -1,0 +1,8 @@
+C:\Vitaly\myProjects\c#\VitPap\src\Lab5\bin\Release\net8.0\publish\Lab5.dll
+C:\Vitaly\myProjects\c#\VitPap\src\Lab5\bin\Release\net8.0\publish\Lab5.pdb
+C:\Vitaly\myProjects\c#\VitPap\src\Lab5\bin\Release\net8.0\publish\Itmo.Dev.Editorconfig.dll
+C:\Vitaly\myProjects\c#\VitPap\src\Lab5\bin\Release\net8.0\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Vitaly\myProjects\c#\VitPap\src\Lab5\bin\Release\net8.0\publish\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Vitaly\myProjects\c#\VitPap\src\Lab5\bin\Release\net8.0\publish\Npgsql.dll
+C:\Vitaly\myProjects\c#\VitPap\src\Lab5\bin\Release\net8.0\publish\Lab5.xml
+C:\Vitaly\myProjects\c#\VitPap\src\Lab5\bin\Release\net8.0\publish\Lab5.deps.json
